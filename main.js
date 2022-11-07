@@ -48,7 +48,7 @@ function agregarProdAlCarrito(prod, arrayProductos) {
     prod.cantidad = 1;
     arrayCarrito.push(prod);
   } else {
-    let producto = arrayProductos.find((element) => element.id == prod.id);
+    let producto = arrayCarrito.find((element) => element.id == prod.id);
     producto.cantidad++;
   }
   renderizarProds();
