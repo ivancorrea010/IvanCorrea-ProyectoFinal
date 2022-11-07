@@ -1,0 +1,38 @@
+[
+  {
+    "nombre": "Masa tradicional",
+    "precio": 250,
+    "img": "img/MasaNormal.jpg",
+    "id": 1
+  },
+  {
+    "nombre": "Masa de zanahoria",
+    "precio": 300,
+    "img": "img/masaZanahoria.jpg",
+    "id": 2
+  },
+  {
+    "nombre": "Masa de calabaza",
+    "precio": 350,
+    "img": "img/MasaCalabaza.jpg",
+    "id": 3
+  },
+  {
+    "nombre": "Masa de papa",
+    "precio": 325,
+    "img": "img/MasaPapa.png",
+    "id": 4
+  },
+  {
+    "nombre": "Queso Punta de agua",
+    "precio": 400,
+    "img": "img/QuesoCremoso.jpg",
+    "id": 5
+  },
+  {
+    "nombre": "Muzzarella Barraza",
+    "precio": 375,
+    "img": "img/QuesoMuzzarella.jpg",
+    "id": 6
+  }
+]
